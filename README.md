@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Huffmann%20Coding-%20-yellow) ![](https://img.shields.io/badge/File%20Compression-%20-green) ![](https://img.shields.io/badge/javascript-%20-orange) ![](https://img.shields.io/badge/HTML/CSS/Bootstrap-%20-red) ![](https://img.shields.io/badge/license-MIT-blue)
+
 <br />
 <p align="center">
   <h1 align="center">Huffmann File Compressor</h1>
@@ -13,4 +13,4 @@
 * Compression ratio usually improves as the file size increases.
 * The website is made responsive (with HTML/CSS and Bootstrap) and interactive (with JavaScript ).
 
-<h2> Website </h2>- https://debrc.github.io/Huffmann-File-Compressor/
+<h2> Website </h2>- https://deadaj1707.github.io/TextCompress/
